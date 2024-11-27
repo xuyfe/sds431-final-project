@@ -11,5 +11,11 @@ print(gdf.columns)
 
 import matplotlib.pyplot as plt
 
-gdf.plot()
-plt.show()
+print(gdf.head())  # Shows the first few rows of the data
+print(gdf.columns) 
+print(gdf.iloc[0])  # Displays the data for the first precinct
+
+#gdf.plot()
+
+#plt.show()
+
