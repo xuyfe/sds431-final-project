@@ -6,7 +6,7 @@ Alabama,4,"ADERHOLT, ROBERT B. ",R,R+23,23.98,74.8,80.4,17.4,81.2,17.8
 Alabama,5,"BROOKS, MO ",R,R+14,34.85,63.87,64.7,31.3,62.7,35.7
 Alabama,6,"BACHUS, SPENCER ",R,R+28,24.66,74.3,70.8,26.1,67.0,31.8
 Alabama,7,"Sewell, Terri A. ",D,D+17,72.4,27.12,28.6,69.8,28.5,70.8
-Alaska,1,"YOUNG, DON E. ",R,R+13,40.81,54.8,51.28,36.5,52.8,42.8
+Alaska,99,"YOUNG, DON E. ",R,R+13,,,,,,
 Arizona,1,"Kirkpatrick, Ann ",D,R+3,47.89,50.42,47.7,46.6,48.4,50.1
 Arizona,2,"Barber, Ron ",D,R+2,48.37,49.94,44.7,49.6,43.9,54.5
 Arizona,3,"Grijalva, Raul M. ",D,D+7,61.44,36.94,32.5,62.4,35.7,62.8
@@ -85,7 +85,7 @@ Connecticut,2,"Courtney, Joe ",D,D+6,55.9,42.57,45.77,48.66,43.5,54.5
 Connecticut,3,"DeLauro, Rosa L. ",D,D+9,62.6,36.3,40.38,55.88,38.8,59.9
 Connecticut,4,"Himes, James A. ",D,D+5,55.07,44.02,36.56,59.57,34.5,64.2
 Connecticut,5,"Esty, Elizabeth H. ",D,D+2,53.53,45.31,45.83,49.93,43.9,54.6
-Delaware,1,"Carney, John C., Jr. ",D,D+7,58.61,39.98,41.72,53.09,39.77,58.74
+Delaware,99,"Carney, John C., Jr. ",D,D+7,,,,,,
 Florida,1,"MILLER, JEFF ",R,R+21,30.18,68.66,68,28.0,65.9,32.4
 Florida,2,"SOUTHERLAND, STEVE, II ",R,R+3,46.52,52.38,66,31.0,67,32
 Florida,3,"YOHO, TED S. ",R,R+12,37.5,61.5,56,40.0,56,42.8
@@ -231,7 +231,7 @@ Missouri,5,"Cleaver, Emanuel, II ",D,D+10,58.9,39.36,40,55.0,39.6,58.4
 Missouri,6,"GRAVES, SAM ",R,R+9,37.9,60.0,63,31.0,63.3,35
 Missouri,7,"LONG, BILLY ",R,R+17,30.34,67.56,70,25.0,70,28.1
 Missouri,8,"EMERSON, JO ANN ",R,R+13,32,65.88,75,21.0,77.3,21.4
-Montana,1,"DAINES, STEVE ",R,R+7,41.7,55.35,56.17,35.25,,
+Montana,99,"DAINES, STEVE ",R,R+7,,,,,,
 Nebraska,1,"FORTENBERRY, JEFF ",R,R+11,40.83,57.43,56,36.0,"180,290",56.01
 Nebraska,2,"TERRY, LEE ",R,R+6,45.7,52.85,47,45.0,"154,377",45.45
 Nebraska,3,"SMITH, ADRIAN ",R,R+23,27.82,70.23,74,20.0,"222,179",75.36
@@ -296,7 +296,7 @@ North Carolina,10,"MCHENRY, PATRICK T. ",R,R+11,40.89,58.0,60,36.0,67.7,31.2
 North Carolina,11,"MEADOWS, MARK ",R,R+12,37.79,60.9,62,33.0,55.4,43.3
 North Carolina,12,"Watt, Melvin L. ",D,D+23,78.54,20.79,28,68.0,28.5,70.1
 North Carolina,13,"HOLDING, GEORGE ",R,R+9,43.53,55.45,53,44.0,67.1,31.8
-North Dakota,1,"CRAMER, KEVIN ",R,R+10,38.7,58.32,62.96,27.23,65.11,31.76
+North Dakota,99,"CRAMER, KEVIN ",R,R+10,,,,,,
 Ohio,1,"CHABOT, STEVE ",R,R+6,46.26,52.4,51,45.0,50.9,47.7
 Ohio,2,"WENSTRUP, BRAD R. ",R,R+9,43.66,54.75,56,40.0,55.6,42.9
 Ohio,3,"Beatty, Joyce ",D,D+14,69.65,28.9,28,67.0,28.4,70
@@ -350,7 +350,7 @@ South Carolina,4,"GOWDY, TREY ",R,R+15,36.2,62.17,60,34.0,59.3,38.9
 South Carolina,5,"MULVANEY, MICK ",R,R+9,43.62,55.1,57,39.0,57.6,41
 South Carolina,6,"Clyburn, James E. 'Jim' ",D,D+18,70.9,28.1,30,67.0,31.8,67
 South Carolina,7,"RICE, TOM ",R,R+7,44.43,54.55,58,39.0,58.8,40.2
-South Dakota,1,"NOEM, KRISTI L. ",R,R+9,39.87,57.89,61.53,31.74,61.77,35.61
+South Dakota,99,"NOEM, KRISTI L. ",R,R+9,,,,,,
 Tennessee,1,"ROE, DAVID P. 'PHIL' ",R,R+21,30.9,67.3,76,20.0,76.2,22.1
 Tennessee,2,"DUNCAN, JOHN J., JR. ",R,R+16,35.1,63.3,65,30.0,63.6,34.5
 Tennessee,3,"FLEISCHMANN, CHARLES J. 'CHUCK ",R,R+12,33.1,65.3,61,38.0,65.3,32.9
@@ -400,7 +400,7 @@ Utah,1,"BISHOP, ROB ",R,R+25,20,78.0,49.7,22.4,64.2,31.6
 Utah,2,"STEWART, CHRIS ",R,R+16,29,68.0,46.0,32.0,56.1,40.2
 Utah,3,"CHAFFETZ, JASON ",R,R+25,20,79.0,47.2,23.3,60.3,35.2
 Utah,4,"Matheson, Jim ",D,R+14,30,68.0,39.1,32.4,52.4,43.3
-Vermont,1,"Welch, Peter ",D,D+13,66.57,30.97,29.76,55.72,30.67,66.09
+Vermont,99,"Welch, Peter ",D,D+13,,,,,,
 Virginia,1,"WITTMAN, ROBERT J. 'ROB' ",R,R+8,45.6,53.1,53,41.0,51.4,47
 Virginia,2,"RIGELL, E. SCOTT ",R,R+5,50.1,48.6,48,45.0,46.7,51.4
 Virginia,3,"Scott, Robert C. 'Bobby' ",D,D+23,78.96,19.99,32,63.0,31.2,67.2
@@ -433,4 +433,4 @@ Wisconsin,5,"SENSENBRENNER, F. JAMES, JR. ",R,R+12,37.75,61.31,57,37.0,56.8,41.7
 Wisconsin,6,"PETRI, THOMAS E. ",R,R+5,45.77,53.1,55,38.0,56.8,41.6
 Wisconsin,7,"DUFFY, SEAN P. ",R,EVEN,47.83,50.92,58,37.0,59.2,39.3
 Wisconsin,8,"RIBBLE, REID J. ",R,R+2,47.56,51.26,57,37.0,57.2,41.3
-Wyoming,1,"LUMMIS, CYNTHIA M. ",R,R+20,27.82,68.64,68.17,21.88,69.94,26.55
+Wyoming,99,"LUMMIS, CYNTHIA M. ",R,R+20,,,,,,

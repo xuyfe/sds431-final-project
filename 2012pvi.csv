@@ -6,7 +6,7 @@ Alabama,4,"ADERHOLT, ROBERT B. ",R,R+23
 Alabama,5,"BROOKS, MO ",R,R+14
 Alabama,6,"BACHUS, SPENCER ",R,R+28
 Alabama,7,"Sewell, Terri A. ",D,D+17
-Alaska,1,"YOUNG, DON E. ",R,R+13
+Alaska,99,"YOUNG, DON E. ",R,R+13
 Arizona,1,"Kirkpatrick, Ann ",D,R+3
 Arizona,2,"Barber, Ron ",D,R+2
 Arizona,3,"Grijalva, Raul M. ",D,D+7
@@ -85,7 +85,7 @@ Connecticut,2,"Courtney, Joe ",D,D+6
 Connecticut,3,"DeLauro, Rosa L. ",D,D+9
 Connecticut,4,"Himes, James A. ",D,D+5
 Connecticut,5,"Esty, Elizabeth H. ",D,D+2
-Delaware,1,"Carney, John C., Jr. ",D,D+7
+Delaware,99,"Carney, John C., Jr. ",D,D+7
 Florida,1,"MILLER, JEFF ",R,R+21
 Florida,2,"SOUTHERLAND, STEVE, II ",R,R+3
 Florida,3,"YOHO, TED S. ",R,R+12
@@ -231,7 +231,7 @@ Missouri,5,"Cleaver, Emanuel, II ",D,D+10
 Missouri,6,"GRAVES, SAM ",R,R+9
 Missouri,7,"LONG, BILLY ",R,R+17
 Missouri,8,"EMERSON, JO ANN ",R,R+13
-Montana,1,"DAINES, STEVE ",R,R+7
+Montana,99,"DAINES, STEVE ",R,R+7
 Nebraska,1,"FORTENBERRY, JEFF ",R,R+11
 Nebraska,2,"TERRY, LEE ",R,R+6
 Nebraska,3,"SMITH, ADRIAN ",R,R+23
@@ -296,7 +296,7 @@ North Carolina,10,"MCHENRY, PATRICK T. ",R,R+11
 North Carolina,11,"MEADOWS, MARK ",R,R+12
 North Carolina,12,"Watt, Melvin L. ",D,D+23
 North Carolina,13,"HOLDING, GEORGE ",R,R+9
-North Dakota,1,"CRAMER, KEVIN ",R,R+10
+North Dakota,99,"CRAMER, KEVIN ",R,R+10
 Ohio,1,"CHABOT, STEVE ",R,R+6
 Ohio,2,"WENSTRUP, BRAD R. ",R,R+9
 Ohio,3,"Beatty, Joyce ",D,D+14
@@ -350,7 +350,7 @@ South Carolina,4,"GOWDY, TREY ",R,R+15
 South Carolina,5,"MULVANEY, MICK ",R,R+9
 South Carolina,6,"Clyburn, James E. 'Jim' ",D,D+18
 South Carolina,7,"RICE, TOM ",R,R+7
-South Dakota,1,"NOEM, KRISTI L. ",R,R+9
+South Dakota,99,"NOEM, KRISTI L. ",R,R+9
 Tennessee,1,"ROE, DAVID P. 'PHIL' ",R,R+21
 Tennessee,2,"DUNCAN, JOHN J., JR. ",R,R+16
 Tennessee,3,"FLEISCHMANN, CHARLES J. 'CHUCK ",R,R+12
@@ -400,7 +400,7 @@ Utah,1,"BISHOP, ROB ",R,R+25
 Utah,2,"STEWART, CHRIS ",R,R+16
 Utah,3,"CHAFFETZ, JASON ",R,R+25
 Utah,4,"Matheson, Jim ",D,R+14
-Vermont,1,"Welch, Peter ",D,D+13
+Vermont,99,"Welch, Peter ",D,D+13
 Virginia,1,"WITTMAN, ROBERT J. 'ROB' ",R,R+8
 Virginia,2,"RIGELL, E. SCOTT ",R,R+5
 Virginia,3,"Scott, Robert C. 'Bobby' ",D,D+23
@@ -433,4 +433,4 @@ Wisconsin,5,"SENSENBRENNER, F. JAMES, JR. ",R,R+12
 Wisconsin,6,"PETRI, THOMAS E. ",R,R+5
 Wisconsin,7,"DUFFY, SEAN P. ",R,EVEN
 Wisconsin,8,"RIBBLE, REID J. ",R,R+2
-Wyoming,1,"LUMMIS, CYNTHIA M. ",R,R+20
+Wyoming,99,"LUMMIS, CYNTHIA M. ",R,R+20
