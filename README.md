@@ -6,6 +6,8 @@ Final Project for S&DS 432: Optimization and Computation
 
 ![Animated redistricting](gifs/gif/district_optimization.gif)
 
+*The above visualization shows the progression of our algorithm for Florida based on 2016 Election data. The figures below the map show the metrics we aim to optimize for. We aim to keep the population of the districts similar (first from left), favorability in the districts (second from left), which together, along with the compactness of the districts, make up the loss function (third from left). The last figure shows the estimated number of districts won based on regressions from different elections (2012,2016,2020), which goes up as our algorithm progresses.* 
+
 Our project refits existing algorithmic redistricting methods to explicitly optimize for a specific party’s objectives. While current approaches lack explicit mechanisms and practical implementation toward the goal of optimizing toward one party or another, we develop an algorithm that explicitly optimizes towards a single
 party’s objectives, incorporating past election data to redistrict maps to create districts with equal
 population, a measure of compactness, and, most importantly, strategically distributed voters. Furthermore, we will use real-world voting data to construct measures of expectation and variance to
