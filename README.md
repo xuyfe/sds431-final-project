@@ -10,14 +10,12 @@ Final Project for S&DS 432: Optimization and Computation
 
 Our project refits existing algorithmic redistricting methods to explicitly optimize for a specific party’s objectives. While current approaches lack explicit mechanisms and practical implementation toward the goal of optimizing toward one party or another, we develop an algorithm that explicitly optimizes towards a single
 party’s objectives, incorporating past election data to redistrict maps to create districts with equal
-population, a measure of compactness, and, most importantly, strategically distributed voters. Furthermore, we will use real-world voting data to construct measures of expectation and variance to
-assess to what extent a certain district configuration can benefit a party — and to that extent,
-use these metrics to optimize the redistricting towards a specific party’s interests. We also fill a
-gap in optimizing long-term favor-ability of redistricting plans. Since the census and subsequent
+population, a measure of compactness, and, most importantly, strategically distributed voters. We also fill a
+gap in optimizing long-term favorability of redistricting plans. Since the census and subsequent
 redistricting (on the congressional level) occurs every ten years, as time passes, the variance of
 voting result from the initial district plan often deviates. We capture the extent of this deviation
 from past historical data and propose ways to incorporate the variance of these temporal shifts
-into the redistricting algorithm. Therefore, our algorithm will be better equipped to ensure party
+into the redistricting algorithm. Therefore, our algorithm will be better equipped to predict party
 success in both the short term (1–2 years) and the long term (7–8 years).
 
 ### Data Collection
