@@ -1,7 +1,8 @@
 # Incorporating Risk into Algorithmic Redistricting
 ## Assessing and Optimizing Redistricting Algorithms with a Bias-Variance Trade-Off and Real-World Voting Data
- **by Ivan Sinyavin and Owen Xu Li**
- Final Project for S&DS 432: Optimization and Computation
+**by Ivan Sinyavin and Owen Xu Li**
+ 
+Final Project for S&DS 432: Optimization and Computation
 
 ![Animated redistricting](gifs/gif/district_optimization.gif)
 
