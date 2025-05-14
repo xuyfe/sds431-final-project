@@ -1,7 +1,7 @@
 # Incorporating Risk into Algorithmic Redistricting
 ## Assessing and Optimizing Redistricting Algorithms with a Bias-Variance Trade-Off and Real-World Voting Data
-### **by Ivan Sinyavin and Owen Xu Li**
-### Final Project for S&DS 432: Optimization and Computation
+ **by Ivan Sinyavin and Owen Xu Li**
+ Final Project for S&DS 432: Optimization and Computation
 
 ![Animated redistricting](gifs/gif/district_optimization.gif)
 
@@ -64,28 +64,27 @@ Estimated 6 Republican districts out of 8 Districts.
 
 ## Directory
 
-
-### `elections_data/`
+`elections_data/`
 Contains data from past elections used to estimate election outcomes as a function of time since redistricting.
 
-### `state_examples/`
+`state_examples/`
 Includes Jupyter notebooks implementing the redistricting optimization algorithm for Florida, Wisconsin, and Virginia.
 
-### `party_favoribility.ipynb`
+`party_favoribility.ipynb`
 Notebook that fits logistic curves to party favorability data based on historical voting patterns.
 
-### `project_report.pdf`
+`project_report.pdf`
 A comprehensive write-up of the full project, including methodology, implementation, and results.
 
-### `project_slides.pdf`
+`project_slides.pdf`
 Summary slides presenting the key ideas and results from the project.
 
-### `read_me_pics/`
+`read_me_pics/`
 Contains supporting images (e.g., maps, diagrams) for the README or documentation.
 
-### `gifs/`
+`gifs/`
 Contain final animated GIFs showing the redistricting algorithm outputs for Florida, Virginia, Wisconsin.
 
 ## Running the Algorithm
-All the necessary functions are defined in the `florida_opt.ipynb` and the `wisconsin_opt.ipynb` Jupyter notebooks.
+All the necessary functions are defined in the `florida_opt.ipynb`, `wisconsin_opt.ipynb`, `virginia_opt.ipynb` Jupyter notebooks in the `state_examples` folder. 
  
