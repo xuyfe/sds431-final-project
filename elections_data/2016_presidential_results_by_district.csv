@@ -1,57 +1,58 @@
 State,District,Trump (%),Clinton (%),Representative
-Alabama,1,63.5,34.1,Bradley Byrne
-Alabama,2,64.9,33.0,Martha Roby
-Alabama,3,65.3,32.3,Mike Rogers
-Alabama,4,80.4,17.4,Robert Aderholt
-Alabama,5,64.7,31.3,Mo Brooks
-Alabama,6,70.8,26.1,Gary Palmer
-Alabama,7,28.6,69.8,Terri Sewell
-Arizona,1,47.7,46.6,Ann Kirkpatrick
-Arizona,2,44.7,49.6,Martha McSally
-Arizona,3,32.5,62.4,Raúl Grijalva
-Arizona,4,67.7,27.5,Paul Gosar
-Arizona,5,57.6,36.5,Matt Salmon
-Arizona,6,52.4,42.4,David Schweikert
-Arizona,7,22.6,71.8,Ruben Gallego
-Arizona,8,58.1,37.0,Trent Franks
-Arizona,9,38.4,54.7,Kyrsten Sinema
-Arkansas,1,65.0,30.2,Rick Crawford
-Arkansas,2,52.4,41.7,French Hill
-Arkansas,3,61.9,30.5,Steve Womack
-Arkansas,4,64.2,31.3,Bruce Westerman
-California,1,55,36,Doug LaMalfa
+Alabama,1,63,34,Bradley Byrne
+Alabama,2,64,33,Martha Roby
+Alabama,3,65,32,Mike Rogers
+Alabama,4,80,17,Robert Aderholt
+Alabama,5,64,31,Mo Brooks
+Alabama,6,70,26,Gary Palmer
+Alabama,7,29,69,Terri Sewell
+Alaska,1,51.28,36.55,Don Young
+Arizona,1,47,46,Ann Kirkpatrick
+Arizona,2,44,49,Martha McSally
+Arizona,3,32,62,Raúl Grijalva
+Arizona,4,67,27,Paul Gosar
+Arizona,5,56,36,Matt Salmon
+Arizona,6,52,42,David Schweikert
+Arizona,7,22,71,Ruben Gallego
+Arizona,8,57,36,Trent Franks
+Arizona,9,38,53,Kyrsten Sinema
+Arkansas,1,65,30,Rick Crawford
+Arkansas,2,52,42,French Hill
+Arkansas,3,62,30,Steve Womack
+Arkansas,4,64,31,Bruce Westerman
+California,1,56,37,Doug LaMalfa
 California,2,23,69,Jared Huffman
 California,3,40,53,John Garamendi
-California,4,53,39,Tom McClintock
+California,4,54,39,Tom McClintock
 California,5,24,69,Mike Thompson
-California,6,24,68,Doris Matsui
-California,7,40,51,Ami Bera
+California,6,24,69,Doris Matsui
+California,7,41,52,Ami Bera
 California,8,55,40,Paul Cook
-California,9,37,55,Jerry McNerney
-California,10,45,48,Jeff Denham
-California,11,22,70,Mark DeSaulnier
+California,9,38,57,Jerry McNerney
+California,10,46,49,Jeff Denham
+California,11,23,72,Mark DeSaulnier
 California,12,9,86,Nancy Pelosi
 California,13,7,87,Barbara Lee
 California,14,18,77,Jackie Speier
-California,15,24,69,Eric Swalwell
-California,16,36,57,Jim Costa
+California,15,24,70,Eric Swalwell
+California,16,36,58,Jim Costa
 California,17,20,74,Mike Honda
 California,18,20,73,Anna Eshoo
-California,19,22,73,Zoe Lofgren
+California,19,21,73,Zoe Lofgren
 California,20,23,70,Sam Farr
-California,21,39,55,David Valadao
-California,22,51,42,Devin Nunes
+California,21,40,55,David Valadao
+California,22,52,43,Devin Nunes
 California,23,58,36,Kevin McCarthy
-California,24,36,56,Lois Capps
-California,25,43,50,Steve Knight
-California,26,35,57,Julia Brownley
+California,24,36,57,Lois Capps
+California,25,44,50,Steve Knight
+California,26,36,58,Julia Brownley
 California,27,28,66,Judy Chu
 California,28,22,72,Adam Schiff
 California,29,17,78,Tony Cárdenas
 California,30,26,69,Brad Sherman
 California,31,37,58,Pete Aguilar
 California,32,28,67,Grace Napolitano
-California,33,27,68,Ted Lieu
+California,33,26,68,Ted Lieu
 California,34,11,84,Xavier Becerra
 California,35,27,68,Norma Torres
 California,36,43,52,Raul Ruiz
@@ -63,9 +64,9 @@ California,41,33,61,Mark Takano
 California,42,53,41,Ken Calvert
 California,43,17,78,Maxine Waters
 California,44,12,83,Janice Hahn
-California,45,44,49,Mimi Walters
+California,45,44,50,Mimi Walters
 California,46,28,66,Loretta Sánchez
-California,47,31,62,Alan Lowenthal
+California,47,31,63,Alan Lowenthal
 California,48,46,48,Dana Rohrabacher
 California,49,43,51,Darrell Issa
 California,50,55,40,Duncan Hunter
@@ -78,12 +79,12 @@ Colorado,3,52,40,Scott Tipton
 Colorado,4,57,34,Ken Buck
 Colorado,5,57,33,Doug Lamborn
 Colorado,6,41,50,Mike Coffman
-Colorado,7,40,52,Ed Perlmutter
-Connecticut,1,36.32,59.4,John B. Larson
-Connecticut,2,45.77,48.66,Joe Courtney
-Connecticut,3,40.38,55.88,Rosa DeLauro
-Connecticut,4,36.56,59.57,Jim Himes
-Connecticut,5,45.83,49.93,Elizabeth Esty
+Colorado,7,39,51,Ed Perlmutter
+Connecticut,1,36,59,John B. Larson
+Connecticut,2,46,49,Joe Courtney
+Connecticut,3,40,56,Rosa DeLauro
+Connecticut,4,36,59,Jim Himes
+Connecticut,5,46,50,Elizabeth Esty
 Delaware,1,41.72,53.09,Lisa Blunt Rochester
 Florida,1,68,28,Jeff Miller
 Florida,2,66,31,Gwen Graham
@@ -128,8 +129,8 @@ Georgia,13,27,71,David Scott
 Georgia,14,75,22,Tom Graves
 Hawaii,1,30.5,63.1,Colleen Hanabusa
 Hawaii,2,29.6,61.4,Tulsi Gabbard
-Idaho,1,63.7,25.4,Raúl Labrador
-Idaho,2,54.5,29.8,Mike Simpson
+Idaho,1,64,25,Raúl Labrador
+Idaho,2,54,30,Mike Simpson
 Illinois,1,22,75,Bobby Rush
 Illinois,2,19,79,Robin Kelly
 Illinois,3,39,55,Dan Lipinski
@@ -158,18 +159,18 @@ Indiana,7,36,58,André Carson
 Indiana,8,64,31,Larry Bucshon
 Indiana,9,61,34,Todd Young
 Iowa,1,48,45,Rod Blum
-Iowa,2,49,44,Dave Loebsack
-Iowa,3,48,45,David Young
+Iowa,2,48,44,Dave Loebsack
+Iowa,3,48,44,David Young
 Iowa,4,60,33,Steve King
-Kansas,1,69.29,24.32,Roger Marshall
-Kansas,2,55.8,37.4,Lynn Jenkins
-Kansas,3,46.0,47.2,Kevin Yoder
-Kansas,4,60.2,32.98,Mike Pompeo
+Kansas,1,69,24,Roger Marshall
+Kansas,2,55,37,Lynn Jenkins
+Kansas,3,45,46,Kevin Yoder
+Kansas,4,59,32,Mike Pompeo
 Kentucky,1,72,24,Ed Whitfield
 Kentucky,2,68,28,Brett Guthrie
 Kentucky,3,40,55,John Yarmuth
 Kentucky,4,65,29,Thomas Massie
-Kentucky,5,80,18,Hal Rogers
+Kentucky,5,80,17,Hal Rogers
 Kentucky,6,55,39,Andy Barr
 Louisiana,1,69,27,Steve Scalise
 Louisiana,2,22,75,Cedric Richmond
@@ -177,25 +178,25 @@ Louisiana,3,67,29,Clay Higgins
 Louisiana,4,61,37,Mike Johnson
 Louisiana,5,64,34,Ralph Abraham
 Louisiana,6,65,31,Garret Graves
-Maine,1,39.15,53.96,Chellie Pingree
-Maine,2,51.26,40.97,Bruce Poliquin
-Maryland,1,60,35,Andy Harris
-Maryland,2,37,58,Dutch Ruppersberger
-Maryland,3,32,63,John Sarbanes
-Maryland,4,20,77,Donna Edwards
-Maryland,5,31,65,Steny Hoyer
-Maryland,6,40,55,John Delaney
-Maryland,7,22,74,Elijah Cummings
-Maryland,8,31,64,Chris Van Hollen
-Massachusetts,1,36.5,57.2,Richard Neal
-Massachusetts,2,36.8,56.2,Jim McGovern
-Massachusetts,3,35.4,58.2,Niki Tsongas
-Massachusetts,4,35.02,59.2,Joseph Kennedy III
-Massachusetts,5,25.7,69.3,Katherine Clark
-Massachusetts,6,38.2,56.1,Seth Moulton
-Massachusetts,7,11.9,84.1,Mike Capuano
-Massachusetts,8,34.4,60.4,Stephen Lynch
-Massachusetts,9,41.8,52.5,William R. Keating
+Maine,1,39,54,Chellie Pingree
+Maine,2,51,41,Bruce Poliquin
+Maryland,1,61,33,Andy Harris
+Maryland,2,35,59,Dutch Ruppersberger
+Maryland,3,32,62,John Sarbanes
+Maryland,4,19,77,Donna Edwards
+Maryland,5,32,63,Steny Hoyer
+Maryland,6,39,55,John Delaney
+Maryland,7,20,74,Elijah Cummings
+Maryland,8,30,63,Chris Van Hollen
+Massachusetts,1,36,56,Richard Neal
+Massachusetts,2,36,55,Jim McGovern
+Massachusetts,3,35,57,Niki Tsongas
+Massachusetts,4,34,58,Joseph Kennedy III
+Massachusetts,5,25,68,Katherine Clark
+Massachusetts,6,38,55,Seth Moulton
+Massachusetts,7,12,83,Mike Capuano
+Massachusetts,8,34,59,Stephen Lynch
+Massachusetts,9,41,52,William R. Keating
 Michigan,1,1st,58,37%
 Michigan,2,55,38,Bill Huizenga
 Michigan,3,52,42,Justin Amash
@@ -215,7 +216,7 @@ Minnesota,2,46,45,Jason Lewis
 Minnesota,3,41,50,Erik Paulsen
 Minnesota,4,30,61,Betty McCollum
 Minnesota,5,18,73,Keith Ellison
-Minnesota,6,59,33,Tom Emmer
+Minnesota,6,58,33,Tom Emmer
 Minnesota,7,61,31,Collin Peterson
 Minnesota,8,54,38,Rick Nolan
 Mississippi,1,65,32,Trent Kelly
@@ -227,19 +228,19 @@ Missouri,2,53,42,Ann Wagner
 Missouri,3,67,28,Blaine Luetkemeyer
 Missouri,4,65,29,Vicky Hartzler
 Missouri,5,40,55,Emanuel Cleaver
-Missouri,6,63,31,Sam Graves
+Missouri,6,64,31,Sam Graves
 Missouri,7,70,25,Billy Long
 Missouri,8,75,21,Jason Smith
 Montana,1,56.17,35.25,Ryan Zinke
-Nebraska,1,56,36,Jeff Fortenberry
+Nebraska,1,56,35,Jeff Fortenberry
 Nebraska,2,47,45,Brad Ashford
 Nebraska,3,74,20,Adrian Smith
-Nevada,1,32.63,61.63,Dina Titus
-Nevada,2,52.03,39.67,Mark Amodei
-Nevada,3,47.55,46.55,Joe Heck
-Nevada,4,44.55,49.50,Cresent Hardy
-New Hampshire,1,48.19,46.6,Carol Shea-Porter
-New Hampshire,2,46.22,48.62,Ann McLane Kuster
+Nevada,1,33,62,Dina Titus
+Nevada,2,52,40,Mark Amodei
+Nevada,3,48,47,Joe Heck
+Nevada,4,45,49,Cresent Hardy
+New Hampshire,1,47,46,Carol Shea-Porter
+New Hampshire,2,45,48,Ann McLane Kuster
 New Jersey,1,36.1,60.6,Donald Norcross
 New Jersey,2,50.6,46.0,Frank LoBiondo
 New Jersey,3,51.4,45.2,Tom MacArthur
@@ -315,23 +316,23 @@ New York,57,32,65,Grace Meng
 New York,58,10,86,Nydia Velázquez
 New York,59,13,84,Hakeem Jeffries
 New York,60,14,83,Yvette Clarke
-New York,61,19,78,Jerry Nadler
+New York,61,19,77,Jerry Nadler
 New York,62,53,44,Dan Donovan
 New York,63,13,82,Carolyn Maloney
 New York,64,5,92,Charles B. Rangel
-New York,65,22,77,Joe Crowley
+New York,65,20,77,Joe Crowley
 New York,66,5,94,Jose Serrano
 New York,67,22,75,Eliot Engel
 New York,68,38,58,Nita Lowey
 New York,69,49,47,Sean Patrick Maloney
-New York,70,51,44,John Faso
+New York,70,50,44,John Faso
 New York,71,40,53,Paul Tonko
 New York,72,53,39,Elise Stefanik
 New York,73,54,39,Richard L. Hanna
 New York,74,54,39,Tom Reed
 New York,75,45,49,John Katko
 New York,76,39,55,Louise Slaughter
-New York,77,38,58,Brian Higgins
+New York,77,38,57,Brian Higgins
 New York,78,59,35,Chris Collins
 North Carolina,1,30,67,G. K. Butterfield
 North Carolina,2,54,42,Renee Ellmers
@@ -371,7 +372,7 @@ Oklahoma,5,53,40,Steve Russell
 Oregon,1,33,55,Suzanne Bonamici
 Oregon,2,55,35,Greg Walden
 Oregon,3,22,68,Earl Blumenauer
-Oregon,4,46,46.1,Peter DeFazio
+Oregon,4,44,45,Peter DeFazio
 Oregon,5,42,46,Kurt Schrader
 Pennsylvania,1,18,80,Bob Brady
 Pennsylvania,2,8,90,Chaka Fattah
@@ -391,8 +392,8 @@ Pennsylvania,15,52,44,Charlie Dent
 Pennsylvania,16,51,44,Joe Pitts
 Pennsylvania,17,53,43,Matt Cartwright
 Pennsylvania,18,58,39,Tim Murphy
-Rhode Island,1,34.9,60.5,David Cicilline
-Rhode Island,2,44.02,51.1,James Langevin
+Rhode Island,1,34,59,David Cicilline
+Rhode Island,2,43,50,James Langevin
 South Carolina,1,53,41,Mark Sanford
 South Carolina,2,57,38,Joe Wilson
 South Carolina,3,67,29,Jeff Duncan
@@ -421,7 +422,7 @@ Texas,8,72,24,Kevin Brady
 Texas,9,18,79,Al Green
 Texas,10,52,43,Michael McCaul
 Texas,11,78,19,Mike Conaway
-Texas,12,62,33,Kay Granger
+Texas,12,62,32,Kay Granger
 Texas,13,80,17,Mac Thornberry
 Texas,14,58,38,Randy Weber
 Texas,15,40,56,Rubén Hinojosa
@@ -433,7 +434,7 @@ Texas,20,34,60,Joaquín Castro
 Texas,21,52,42,Lamar Smith
 Texas,22,52,44,Pete Olson
 Texas,23,46,49,Will Hurd
-Texas,24,51,43,Kenny Marchant
+Texas,24,51,44,Kenny Marchant
 Texas,25,55,40,Roger Williams
 Texas,26,60,34,Michael Burgess
 Texas,27,60,36,Blake Farenthold
@@ -443,7 +444,7 @@ Texas,30,18,79,Eddie Bernice Johnson
 Texas,31,53,40,John Carter
 Texas,32,47,48,Pete Sessions
 Texas,33,24,73,Marc Veasey
-Texas,34,38,59,Filemon Vela Jr.
+Texas,34,37,59,Filemon Vela Jr.
 Texas,35,30,64,Lloyd Doggett
 Texas,36,72,25,Brian Babin
 Utah,1,49.7,22.4,22.3%
@@ -453,7 +454,7 @@ Utah,4,39.1,32.4,22.5%
 Vermont,1,29.76,55.72,Peter Welch
 Virginia,1,53,41,Rob Wittman
 Virginia,2,48,45,Scott Rigell
-Virginia,3,32,63,Robert C. Scott
+Virginia,3,32,63,Bobby Scott
 Virginia,4,37,58,Randy Forbes
 Virginia,5,53,42,Robert Hurt
 Virginia,6,59,35,Bob Goodlatte
@@ -462,16 +463,16 @@ Virginia,8,21,72,Don Beyer
 Virginia,9,68,27,Morgan Griffith
 Virginia,10,42,52,Barbara Comstock
 Virginia,11,27,66,Gerry Connolly
-Washington,1,37.85,54.13,Suzan DelBene
-Washington,2,34.82,56.92,Rick Larsen
-Washington,3,49.93,42.52,Jaime Herrera Beutler
-Washington,4,57.92,35.06,Dan Newhouse
-Washington,5,52.17,39.14,Cathy McMorris Rodgers
-Washington,6,39.48,51.83,Derek Kilmer
-Washington,7,12.18,82.13,Jim McDermott
-Washington,8,44.67,47.72,Dave Reichert
-Washington,9,23.34,70.47,Adam Smith
-Washington,10,39.9,51.25,Denny Heck
+Washington,1,38,54,Suzan DelBene
+Washington,2,35,57,Rick Larsen
+Washington,3,50,43,Jaime Herrera Beutler
+Washington,4,58,35,Dan Newhouse
+Washington,5,52,39,Cathy McMorris Rodgers
+Washington,6,39,52,Derek Kilmer
+Washington,7,12,82,Jim McDermott (114th Congress)
+Washington,8,45,48,Dave Reichert
+Washington,9,23,70,Adam Smith
+Washington,10,40,51,Denny Heck
 West Virginia,1,68,26,David McKinley
 West Virginia,2,66,29,Alex Mooney
 West Virginia,3,73,23,Evan Jenkins
@@ -481,6 +482,6 @@ Wisconsin,3,49,44,Ron Kind
 Wisconsin,4,22,73,Gwen Moore
 Wisconsin,5,57,37,Jim Sensenbrenner
 Wisconsin,6,55,38,Glenn Grothman
-Wisconsin,7,58,37,Sean Duffy
-Wisconsin,8,57,37,Mike Gallagher
+Wisconsin,7,57,37,Sean Duffy
+Wisconsin,8,56,38,Mike Gallagher
 Wyoming,1,68.17,21.88,Liz Cheney
